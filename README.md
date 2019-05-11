@@ -7,8 +7,8 @@
  - Example : ``bk 2`` //Goes two directories back.  
 
 ## Configuring
-  (i). Copy the given code in **.bk.sh** file in this repository and paste it in your favourite text editor. 
-  (ii). Save it as **~/.bk.sh** and exit. 
-  (iii). Then open **~/.bashrc** file in your text editor. 
-  (iv). Add the following in the last new line : ``source ~/.bk.sh`` 
-  (v). Save **~/.bashrc** file and exit. 
+  1. Copy the given code in **.bk.sh** file in this repository and paste it in your favourite text editor. 
+  2. Save it as **~/.bk.sh** and exit. 
+  3. Then open **~/.bashrc** file in your text editor. 
+  4. Add the following in the last new line : ``source ~/.bk.sh`` 
+  5. Save **~/.bashrc** file and exit. 
