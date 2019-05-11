@@ -1,11 +1,11 @@
 # bk
-  A simple function to go back in terminal in Linux based systems.
-  So you don't have to take the hassle to type 'cd ..' several times. 
+ - A simple function to go back in terminal in Linux based systems.
+ - So you don't have to take the hassle to type 'cd ..' several times. 
 
 # Usage
-  bk i  //Where i is any integer.   
+ - bk i  //Where i is any integer.   
 
-  Example : bk 2 //Goes two directories back.  
+ - Example : bk 2 //Goes two directories back.  
 
 ## Configuring
   (i) Copy the given code in **.bk.sh** file in this repository and paste it in your favourite text editor. 
