@@ -1,6 +1,6 @@
 # bk
  A simple function to go back in terminal in Linux based systems.
- So you don't have to take the hassle to type 'cd ..' several times. 
+ So you don't have to take the hassle to type 'cd ..' several times. ``cd..``
 
 # Usage
  - bk i  //Where i is any integer.   
